@@ -1,0 +1,108 @@
+Card;Cost;Count;Damage;Death Damage;Health;Hit Speed;Range;Type;Rarity;Evolution;Ability;Win Rate%;Rating;Usage%;Damage per second
+Archers;3;2;107;0;304;0,9;5;Troops;Common;Yes;No;58;68;3;118,8888889
+Baby Dragon;4;1;160;0;1152;1,5;3,5;Troops;Epic;No;No;50;48;13;106,6666667
+Balloon;5;1;640;240;1680;2;0;Troops;Epic;No;No;50;51;9;320
+Bandit;3;1;193;0;907;1;0;Troops;Legendary;No;No;51;51;6;193
+Barbarians;5;4;192;0;670;1,3;0;Troops;Common;Yes;No;53;56;5;147,6923077
+Bats;2;5;81;0;81;1,3;0;Troops;Common;Yes;No;53;56;12;62,30769231
+Battle Ram;4;1;572;0;966;0;0;Troops;Rare;No;No;51;51;3;0
+Bomb Tower;4;1;222;222;1356;1,8;6;Buildings;Rare;No;No;48;45;3;123,3333333
+Bomber;2;1;222;0;332;1,8;4,5;Troops;Common;No;No;52;54;4;123,3333333
+Bowler;5;1;288;0;2080;2,5;4;Troops;Epic;No;No;51;51;2;115,2
+Cannon;3;1;212;0;824;0,9;5,5;Buildings;Common;No;No;50;49;8;235,5555556
+Cannon Cart;5;1;212;0;892;1;5,5;Troops;Epic;No;No;51;52;1;212
+Dark Prince;4;1;248;0;1200;1,3;0;Troops;Epic;No;No;53;58;13;190,7692308
+Dart Goblin;3;1;131;0;260;0,7;6,5;Troops;Rare;No;No;49;47;6;187,1428571
+Electro Wizard;4;1;220;0;713;1,8;5;Troops;Legendary;No;No;51;54;14;122,2222222
+Elite Barbarians;6;2;384;0;1341;1,4;0;Troops;Common;No;No;50;51;8;274,2857143
+Executioner;5;1;338;0;1280;2,4;4,5;Troops;Epic;No;No;50;48;4;140,8333333
+Fire Spirit;1;1;207;0;230;0;2;Troops;Common;No;No;49;47;3;0
+Giant;5;1;254;0;4091;1,5;0;Troops;Rare;No;No;47;41;6;169,3333333
+Giant Skeleton;6;1;267;534;3424;1,4;0;Troops;Epic;No;No;52;55;6;190,7142857
+Goblins;2;4;120;0;202;1,1;0;Troops;Common;No;No;53;58;4;109,0909091
+Golem;8;1;312;224;5120;2,5;0;Troops;Epic;No;No;51;51;2;124,8
+Guards;3;3;121;0;240;1;0;Troops;Epic;No;No;51;51;4;121
+Hog Rider;4;1;318;0;1696;1,6;0;Troops;Rare;No;No;50;49;24;198,75
+Ice Golem;2;1;84;84;1197;2,5;0;Troops;Rare;No;No;46;39;3;33,6
+Ice Spirit;1;1;110;0;230;0;2,5;Troops;Common;Yes;No;49;46;11;0
+Ice Wizard;3;1;90;0;688;1,7;5,5;Troops;Legendary;No;No;49;48;3;52,94117647
+Inferno Dragon;4;1;250;0;1294;0,4;3,5;Troops;Legendary;No;No;50;50;8;625
+Inferno Tower;5;1;400;0;1749;0,4;6;Buildings;Rare;No;No;49;47;9;1000
+Knight;3;1;202;0;1766;1,2;0;Troops;Common;Yes;No;53;56;17;168,3333333
+Lava Hound;7;1;54;0;3581;1,3;3,5;Troops;Legendary;No;No;52;54;1;41,53846154
+Lumberjack;4;1;242;0;1282;0,8;0;Troops;Legendary;No;No;51;53;6;302,5
+Mega Minion;3;1;311;0;837;1,5;0;Troops;Rare;No;No;52;55;3;207,3333333
+Mini P.E.K.K.A.;4;1;720;0;1361;1,6;0;Troops;Rare;No;No;50;49;25;450
+Miner;3;1;193;0;1210;1,2;0;Troops;Legendary;No;No;48;45;6;160,8333333
+Minions;3;3;117;0;230;1;0;Troops;Common;No;No;50;49;9;117
+Minion Horde;5;6;117;0;230;1;0;Troops;Common;No;No;49;46;5;117
+Mortar;4;1;266;0;1369;5;11,5;Buildings;Common;Yes;No;53;56;1;53,2
+Musketeer;4;1;218;0;720;1;6;Troops;Rare;No;No;49;46;12;218
+Night Witch;4;1;314;0;907;1,3;0;Troops;Legendary;No;No;50;50;2;241,5384615
+P.E.K.K.A.;7;1;816;0;3760;1,8;0;Troops;Epic;No;No;51;53;10;453,3333333
+Prince;5;1;392;0;1920;1,4;0;Troops;Epic;No;No;50;49;12;280
+Princess;3;1;169;0;261;3;9;Troops;Legendary;No;No;49;47;11;56,33333333
+Royal Giant;6;1;307;0;3072;1,7;5;Troops;Common;Yes;No;52;53;2;180,5882353
+Skeletons;1;3;81;0;81;1;0;Troops;Common;Yes;No;53;56;2;81
+Skeleton Army;3;15;81;0;81;1;0;Troops;Epic;No;No;51;52;27;81
+Sparky;6;1;1331;0;1452;4;5;Troops;Legendary;No;No;51;51;4;332,75
+Spear Goblins;2;3;81;0;133;1,7;5,5;Troops;Common;No;No;51;53;4;47,64705882
+Tesla;4;1;230;0;1152;1,1;5,5;Buildings;Common;No;No;49;48;10;209,0909091
+Three Musketeers;9;3;218;0;720;1;6;Troops;Rare;No;No;48;43;1;218
+Valkyrie;4;1;267;0;1908;1,5;0;Troops;Rare;No;No;49;48;28;178
+Witch;5;1;134;0;838;1,1;5,5;Troops;Epic;No;No;50;50;20;121,8181818
+Wizard;5;1;281;0;720;1,4;5,5;Troops;Rare;No;No;49;46;19;200,7142857
+X-Bow;6;1;41;0;1600;0,3;11,5;Buildings;Epic;No;No;45;36;2;136,6666667
+Barbarian Hut;6;1;0;0;1166;0;0;Buildings;Rare;No;No;45;36;0;0
+Furnace;4;1;0;0;848;0;0;Buildings;Rare;No;No;49;46;2;0
+Goblin Barrel;3;1;120;0;202;1,1;0;Spells;Epic;No;No;50;50;23;109,0909091
+Goblin Hut;5;1;81;0;848;1,7;5,5;Buildings;Rare;No;No;43;32;3;0,609022556
+Graveyard;5;1;81;0;81;1;0;Spells;Legendary;No;No;50;50;2;81
+Tombstone;3;1;81;0;530;1;0;Buildings;Rare;No;No;52;56;4;81
+Arrows;3;1;366;0;0;0;0;Spells;Common;No;No;50;50;27;0
+Fireball;4;1;689;0;0;0;0;Spells;Rare;No;No;50;48;28;0
+Lightning;6;1;1056;0;0;0;0;Spells;Epic;No;No;50;49;4;0
+Poison;4;1;728;0;0;0;0;Spells;Epic;No;No;50;49;6;0
+Rocket;6;1;1484;0;0;0;0;Spells;Rare;No;No;47;42;6;0
+The Log;2;1;290;0;0;0;0;Spells;Legendary;No;No;50;51;33;0
+Zap;2;1;192;0;0;0;0;Spells;Common;No;No;52;55;18;0
+Firecracker;3;1;320;0;304;3;6;Troops;Common;Yes;No;51;52;11;106,6666667
+Earthquake;3;1;246;0;0;0;0;Spells;Rare;No;No;49;50;2;0
+Electro Spirit;1;1;99;0;230;0;2,5;Troops;Common;No;No;49;46;3;0
+Heal Spirit;1;1;110;0;231;0;2,5;Troops;Rare;No;No;49;46;1;0
+Wall Breakers;2;2;392;0;331;0;0;Troops;Epic;No;No;49;47;5;0
+Rage;2;1;192;0;0;0;0;Spells;Epic;No;No;49;47;7;0
+Barbarian Barrel;2;1;241;0;670;0;0;Spells;Epic;No;No;52;54;6;0
+Giant Snowball;2;1;179;0;0;0;0;Spells;Common;No;No;50;50;2;0
+Royale Ghost;3;1;261;0;1210;1,8;0;Troops;Legendary;No;No;50;50;3;145
+Skeleton Barrel;3;1;0;133;532;0;0;Troops;Common;No;No;50;49;4;0
+Fisherman;3;1;193;0;871;1,3;0;Troops;Legendary;No;No;51;52;1;148,4615385
+Elixir Golem;3;1;254;0;1568;1,1;0;Troops;Rare;No;No;45;38;3;230,9090909
+Little Prince;3;1;121;0;770;0,8;6;Troops;Champion;No;Yes;51;54;26;151,25
+Tornado;3;1;168;0;0;0;0;Spells;Epic;No;No;49;47;6;0
+Royale Delivery;3;1;437;0;532;1,3;0;Spells;Common;No;No;48;45;1;336,1538462
+Hunter;4;1;840;0;838;2,2;4;Troops;Epic;No;No;50;50;1;381,8181818
+Zappies;4;3;116;0;530;2,1;4,5;Troops;Rare;No;No;50;49;1;55,23809524
+Flying Machine;4;1;171;0;614;1,1;6;Troops;Rare;No;No;50;49;1;155,4545455
+Magic Archer;4;1;134;0;532;1,1;7;Troops;Legendary;No;No;50;49;7;121,8181818
+Mighty Miner;4;1;200;0;2250;0,4;0;Troops;Champion;No;Yes;51;52;1;500
+Battle Healer;4;1;148;0;1717;1,5;0;Troops;Rare;No;No;47;42;1;98,66666667
+Skeleton King;4;1;205;0;2300;1,6;0;Troops;Champion;No;Yes;50;49;1;128,125
+Golden Knight;4;1;160;0;1800;0,9;0;Troops;Champion;No;Yes;49;47;1;177,7777778
+Skeleton Dragons;4;2;161;0;563;1,9;3,5;Troops;Common;No;No;50;50;2;84,73684211
+Mother Witch;4;1;133;0;532;1;5,5;Troops;Legendary;No;No;49;46;2;133
+Phoenix;4;1;217;163;1052;1;0;Troops;Legendary;No;No;50;50;1;217
+Goblin Cage;4;1;0;0;742;1,1;0;Buildings;Rare;No;No;52;55;2;0
+Goblin Drill;4;1;83;0;1440;0;0;Buildings;Epic;No;No;48;44;0;0
+Freeze;4;1;115;0;0;0;0;Spells;Epic;No;No;48;45;5;0
+Ram Rider;5;1;266;0;1767;1,8;0;Troops;Legendary;No;No;50;49;5;147,7777778
+Royale Hogs;5;4;74;0;837;1,2;0;Troops;Rare;No;No;47;42;3;61,66666667
+Electro Dragon;5;1;192;0;950;2,1;3,5;Troops;Epic;No;No;50;49;2;91,42857143
+Archer Queen;5;1;225;0;1000;1,2;5;Troops;Champion;No;Yes;51;50;1;187,5
+Goblin Giant;6;1;176;0;3336;1,5;0;Troops;Epic;No;No;52;54;2;117,3333333
+Elixir Collector;6;1;0;0;1070;0;0;Buildings;Rare;No;No;50;49;1;0
+Royale Recruits;7;6;133;0;532;1,3;0;Troops;Common;Yes;No;54;58;1;102,3076923
+Mega Knight;7;1;268;0;3993;1,7;0;Troops;Legendary;No;No;51;54;23;157,6470588
+Electro Giant;7;1;163;0;3856;2,1;0;Troops;Epic;No;No;49;47;3;77,61904762
+Monk;5;1;140;0;2000;0,8;0;Troops;Champion;No;Yes;48;44;0;175
+Rascals;5;3;133;0;1940;1,5;0;Troops;Common;No;No;54;59;3;88,66666667
